@@ -7,7 +7,7 @@
 
 13/2
 - Badminton 50%
-- Basketball 50%
+- Leichtatlethic 50%
 
 Warten am 2ten Parkplatz
 Desinfektion am Eingang
