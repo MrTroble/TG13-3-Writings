@@ -1,5 +1,5 @@
 import math
-import matplotlib.pyplot as plot
+import plot
 
 
 def v(t):
@@ -14,19 +14,10 @@ def a(t):
     return -0.025 * math.pi**2 * math.cos(math.pi * t)
 
 
-ts = []
-vs = []
-at = []
-ss = []
-samples = 10000
-for x in range(samples):
-    ct = x * 0.001
-    ts.append(ct)
-    vs.append(v(ct))
-    ss.append(s(ct))
-    at.append(a(ct))
+print(a(1))
 
-plot.plot(ts, vs)
-plot.plot(ts, ss)
-plot.plot(ts, at)
-plot.show()
+plot.plotovertime([
+    a,
+    v,
+    s,
+], 1000, 0.01)
