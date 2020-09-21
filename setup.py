@@ -9,7 +9,7 @@ today = datetime.date.today()
 i = 0
 dirs = []
 for dir in os.listdir("."):
-    if not os.path.isdir(dir): continue
+    if not os.path.isdir(dir) or dir == ".git": continue
     print(str(i) + " " + dir)
     dirs.append(dir)
     i += 1
