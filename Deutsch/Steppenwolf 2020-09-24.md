@@ -19,3 +19,9 @@
 Der Steppenwolf bezeichnet das Model Harry Hallers zu reduktion seiner eignen Komplexität
 
 Er will keinen Mittelweg. Nostalgie.
+
+| Bürgerlich       | Steppenwolf                |
+| ---------------- | -------------------------- |
+| regularität      | chaos                      |
+| vergnügungssucht | kritisiert das Bürgerliche |
+| sauberkeit       |                            |
