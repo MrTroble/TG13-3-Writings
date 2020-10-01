@@ -15,4 +15,4 @@
 * Versorgungslücken oder Überproduktion
 * Anreize für Unternehmen zur Technischen Entwicklung fehlen
 * Durch den Verwaltungsapprat entstehen weitere Kosten
-* Keine Optimalen Arbeitsleistungen
+* Keine Optimalen Arbeitsleistungen*
