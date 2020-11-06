@@ -11,8 +11,18 @@ HE = norm(H - E)
 AB = norm(A - B)
 EA = norm(E - A)
 
-TFA = HE * EA
-TFB = ((AB - HE) * EA) / 2
+trapez(a, b, h) = 0.5h * (a + b)
 
-GSMT = (TFA + TFB) * 4
-print(GSMT)
+OM(a, b) = 0.5(a + b)
+
+MU = OM(A, B)
+MO = OM(E, F)
+
+println(MU)
+println(MO)
+
+HO = norm(MU - MO)
+println(HO)
+
+Atrap = trapez(AB, EA, HO)
+println(Atrap)
