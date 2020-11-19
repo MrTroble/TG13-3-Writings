@@ -15,4 +15,5 @@ Weltbild das glaubt, dass Menschen und ihre zusammenhänge nicht aus einer Sache
 ## Kultur
 
 Kultur bezeichnet die über Unterschiedliche Nenner definierte Identität einer Gesellschaft.
-Menschen geschaffene Dinge.
+
+> Menschen geschaffene Dinge.
