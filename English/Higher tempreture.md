@@ -11,6 +11,7 @@ fewer
 
 estimated
 unsutable
+
 geopraphics
 
 target
@@ -44,3 +45,22 @@ More land used to feed animals then people
 
 1800gal
 Corn
+
+16mil
+over 5mil
+Landfillsides
+300Milltones
+1950
+
+On Land
+Block stomache and starve
+Think that it is fish eggs
+
+air flows
+clockwise
+flowting
+major ones
+
+Tiny pices of plastic under 5 milmeters in diamitare
+Global Warming
+The cost of Chile
