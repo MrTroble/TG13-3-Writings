@@ -1,0 +1,3 @@
+# Mediation
+
+Im ersten Parapraghen geht es geht es um die Frustration des Autors gegen über dem Schubladen denken der Menschen und die damit verbundene Fragerei. Darauf folgend erklärt er, dass Islam keine Rasse ist und das die Leute in die Religion hineingeboren werden aber dennoch ihren eigenen Ansichten und Meinungen haben. Er vergleicht dies mit Rassismus und Dunkelhäutigen und erklärt, dass es das selbe ist. Er beschreibt dann einen situation in dem ihm rassismus wiederfahren ist und das er dies lange aus höflichkeit nicht mehr mitbekommen hat. Daraufhin beschreibt er nochmal die generalisierung der Muslime und bringt eine Beispiel zum Thema Frauen rechte, die die eigentliche Spaltung der Meinungen unterstreicht.
