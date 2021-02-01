@@ -29,4 +29,14 @@ $f_2 = (2 \cdot 2 - 1) \dfrac{c}{4s} = 3\dfrac{c}{4s} = 1hz$
 
 $f_1 = \dfrac{1}{3}hz = \dfrac{c}{4s}$ -> $f_k = (2 \cdot n - 1) \dfrac{1}{3}hz$
 
-##
+## Leifi
+
+Grundbedingung: Zwei offene Enden. -> $f = k \cdot \dfrac{c}{2s}$
+
+$c = 340\dfrac{m}{s}$
+
+$f_1 = 261.6hz$
+
+$f = k \cdot \dfrac{c}{2s}$
+
+$s = \dfrac{340ms^{-1}}{523.2hz} = 0.65m$
